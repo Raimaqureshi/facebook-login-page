@@ -5,7 +5,7 @@ export default function Home() {
     <div className="bg-gray-100 min-h-screen flex flex-col items-center justify-center md:flex-row">
       <div className="text-2xl w-full md:w-1/2 px-8 md:px-16 mb-6 md:mb-0">
         <Image src={"/pictures/facebook.svg"} width={300} height={100} alt="Facebook Logo" />
-        <p className="ml-2 md:ml-7 -mt-3 text-center md:text-left">
+        <p className="ml-2 md:ml-7 -mt-3 text-center md:text-left text-black">
           Facebook helps you connect and share with the people in your life.
         </p>
       </div>
